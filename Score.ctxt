@@ -1,0 +1,39 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Score()
+<<<<<<< HEAD
+comment1.text=\r\n\ Score\ is\ the\ constructor\ of\ objects\ type\ Score\r\n\ \r\n\ @param\ No\ parameters\r\n\ @return\ \r\n
+=======
+comment1.text=\r\n\ Score\ is\ the\ constructor\ of\ objects\ of\ type\ Score\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ type\ Score\r\n
+>>>>>>> 4a003a755ada0e3cc9f13300555f27091d7aad72
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ code\ that\ is\ run\ on\ each\ iteration\ of\ the\ act\ cycle\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ countScore()
+<<<<<<< HEAD
+comment3.text=\r\n\ countScore\ Increase\ the\ score\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=playerName
+comment4.target=void\ setPlayerName(java.lang.String)
+comment4.text=\r\nsetPlayerName\ changes\ the\ name\ displayed\ on\ the\ leaderboard\r\n\r\n@param\ playername\ is\ the\ new\ players\ name\ \r\n@return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ gets\ the\ current\ score\ for\ the\ player\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ integer\ rep.the\ players\ score\r\n
+comment6.params=
+comment6.target=void\ display()
+comment6.text=\r\n\ display\ Displays\ the\ scoreboard\ image\r\n\ \r\n\ @param\ No\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+=======
+comment3.text=\r\n\ countScore\ increases\ the\ score\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=playerName
+comment4.target=void\ setPlayerName(java.lang.String)
+comment4.text=\r\n\ setPlayerName\ changes\ the\ name\ displayed\ on\ the\ leaderboard\r\n\ \r\n\ @param\ playerName\ is\ the\ new\ player's\ name\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ gets\ the\ current\ score\ for\ the\ player\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ integer\ representing\ the\ player's\ score\r\n
+comment6.params=
+comment6.target=void\ display()
+comment6.text=\r\n\ display\ displays\ the\ Scoreboard's\ image\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+>>>>>>> 4a003a755ada0e3cc9f13300555f27091d7aad72
+numComments=7
